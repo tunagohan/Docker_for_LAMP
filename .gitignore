@@ -45,5 +45,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+log/*
+mysql/datastore
 
 # End of https://www.gitignore.io/api/git,macos,linux
